@@ -1,0 +1,116 @@
+/* body{
+    background-image: url('../assets/wallpaper.jpeg');
+    
+    color:#ffffff;
+} */
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 10px;
+}
+.navbar-light{
+    background-color: #e3f2fd !important;
+}
+.project-summary{
+    text-align: justify;
+}
+
+/* The grid: Four equal columns that floats next to each other */
+.column {
+    float: left;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Style the images inside the grid */
+  .column img {
+    opacity: 0.8; 
+    cursor: pointer; 
+  }
+  .column_next{
+      float: none;
+      width:50%;
+      padding: 10px;
+  }
+  
+  .column img:hover {
+    opacity: 1;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* The expanding image container */
+  .container {
+    position: relative;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 50px;
+  }
+  
+  /* Expanding image text */
+  #imgtext {
+    position: absolute;
+    bottom: 15px;
+    left: 15px;
+    color: white;
+    font-size: 20px;
+  }
+  
+  /* Closable button inside the expanded image */
+  .closebtn {
+    position: absolute;
+    top: 10px;
+    right: 15px;
+    color: white;
+    font-size: 35px;
+    cursor: pointer;
+  }
+  .dataset-load{
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  }
+  #datasetImg{
+      width:100%;
+      height:auto;
+      
+  }
+  h2, h3{
+      font-weight: bold;
+  }
+
+  #expandedImg{
+      height:600px;
+      transition: transform .2s;
+
+  }
+  #expandedImg:hover{
+    transform: scale(1.3);
+  }
+.values{
+    font-size: large;
+}
+.accuracy-values-container{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 25px 25px
+}
+.model-name{
+    font-weight: bold;
+}
+.prof-mail{
+    font-size: medium;
+}
+.prof-name{
+    color: green
+}

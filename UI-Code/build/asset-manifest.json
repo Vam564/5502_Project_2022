@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14200e46.css",
+    "main.js": "/static/js/main.41587018.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/dataset-2.png": "/static/media/dataset-2.340488beafcdb9a9bcac.png",
+    "static/media/wallpaper.jpeg": "/static/media/wallpaper.f1132095e4c9776d02d3.jpeg",
+    "static/media/density-distribution.png": "/static/media/density-distribution.017dec839af3c31e1766.png",
+    "static/media/correlation-data.png": "/static/media/correlation-data.50b0f6177989a74dd152.png",
+    "static/media/distribution.png": "/static/media/distribution.6058c000d136f3c63fc7.png",
+    "static/media/dataset_img.jpeg": "/static/media/dataset_img.bacf8ddeb08a0f11aaae.jpeg",
+    "static/media/image.png": "/static/media/image.c73a221879cd3e2f9f3f.png",
+    "static/media/image_1.png": "/static/media/image_1.1ea7dd4d0ee8adb3bcd2.png",
+    "static/media/img_nature.jpeg": "/static/media/img_nature.d3d24279c6ca8c8f23a4.jpeg",
+    "static/media/exited-non-exited-age.png": "/static/media/exited-non-exited-age.a265baecffd93941a833.png",
+    "static/media/geo-exited.png": "/static/media/geo-exited.7ca61cc8c1fa722882b5.png",
+    "static/media/exited-non-exited.png": "/static/media/exited-non-exited.5758b273fa014cc4a992.png",
+    "static/media/act-vs-inact.png": "/static/media/act-vs-inact.eaaf546113e3e1fc6980.png",
+    "static/media/count-male-female.png": "/static/media/count-male-female.2554934b41d949fbb165.png",
+    "static/media/gender-exited.png": "/static/media/gender-exited.1404ce5955b8867d312b.png",
+    "static/media/count-of-tenure.png": "/static/media/count-of-tenure.9cf03f63cfcad2c929ff.png",
+    "index.html": "/index.html",
+    "main.14200e46.css.map": "/static/css/main.14200e46.css.map",
+    "main.41587018.js.map": "/static/js/main.41587018.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14200e46.css",
+    "static/js/main.41587018.js"
+  ]
+}
